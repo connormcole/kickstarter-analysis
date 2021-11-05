@@ -4,7 +4,7 @@
 Louise is in charge of many fundraising kickstarters in several different industries, but is unable to determine why some projects succeed and others fail.  
 
 ### Purpose
-Louise wanted a detailed analysis of her sizeable fundraising kickstarters, so I was hired to determine why they succeeded or failed. Based on industry "parent categories" and subcategories, as well as the country the fundraiser was occurring, I compared kickstarters based on their launch dates and fundraising goals.
+Louise wanted a detailed analysis of her sizeable fundraising kickstarters, so I was hired to determine why they succeeded or failed. I compared kickstarters based on their launch dates, fundraising goals, industry "parent categories" and subcategories, as well as the country the fundraiser was occurring.
 
 ## Analysis and Challenges
 To begin, I looked at successful and failed kickstarters within the US. I created descriptive statistics for the fundraising goals vs what was pledged, including mean, median, standard deviation, and interquartile range.  
