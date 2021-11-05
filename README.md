@@ -17,7 +17,7 @@ The chart below displays the overall results of each parent category within the 
 
 ![Parent_Category_Outcomes](https://user-images.githubusercontent.com/92554586/140440811-3d2aa32e-3a3f-4d8f-ab8c-9044d30d51bc.png)
 
-The theater category has the most successful kickstarters, but also a high amount of failures. Music is the next most succesful category, and journalism had the least activity.
+The theater category had the most successful kickstarters, but also a high amount of failures. Music is the next most succesful category, and journalism had the least activity.
 
 ### Analysis of Outcomes Based on Launch Date
 
