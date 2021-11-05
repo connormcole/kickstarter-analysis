@@ -31,7 +31,7 @@ The most successful kickstarters began in summer months with May being the high 
 
 ### Analysis of Outcomes Based on Goals
 
-The chart below displays the overall percentage of success, failure and cancelation across all categories:
+The chart below displays the overall percentage of success, failure and cancelation across all categories based on their fundraising goal:
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/92554586/140442686-07a0913d-53c5-434e-ac63-82e2711779fc.png)
 
