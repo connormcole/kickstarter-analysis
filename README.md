@@ -27,7 +27,7 @@ The chart below shows the overall outcomes of all categories based on when they 
 
 The main points from this chart are:
 
-The most successful kickstarters began in summer months with May being the high point. Canceled kickstarters stayed relatively level across all months - the launch date was not a factor in why they were canceled. The least amount of failed kickstarters were in the first quarter of the year (January to April), so these were likely the safest months to start certain categories.
+The most successful kickstarters began in summer months with May being the high point. Canceled kickstarters stayed relatively level across all months - the launch date was not a factor in why they were canceled. The least amount of failed kickstarters were in February to April, so these were likely the safest months to start certain categories.
 
 ### Analysis of Outcomes Based on Goals
 
